@@ -1,0 +1,5 @@
+c:\users\светла\documents\visual studio 2012\Projects\10. Numeral Systems\8.ShortToBinary\bin\Debug\8.ShortToBinary.exe.config
+c:\users\светла\documents\visual studio 2012\Projects\10. Numeral Systems\8.ShortToBinary\bin\Debug\8.ShortToBinary.exe
+c:\users\светла\documents\visual studio 2012\Projects\10. Numeral Systems\8.ShortToBinary\bin\Debug\8.ShortToBinary.pdb
+c:\users\светла\documents\visual studio 2012\Projects\10. Numeral Systems\8.ShortToBinary\obj\Debug\8.ShortToBinary.exe
+c:\users\светла\documents\visual studio 2012\Projects\10. Numeral Systems\8.ShortToBinary\obj\Debug\8.ShortToBinary.pdb

@@ -1,0 +1,5 @@
+c:\users\светла\documents\visual studio 2012\Projects\10. Numeral Systems\6.BinaryToHexadecimal\bin\Debug\6.BinaryToHexadecimal.exe.config
+c:\users\светла\documents\visual studio 2012\Projects\10. Numeral Systems\6.BinaryToHexadecimal\bin\Debug\6.BinaryToHexadecimal.exe
+c:\users\светла\documents\visual studio 2012\Projects\10. Numeral Systems\6.BinaryToHexadecimal\bin\Debug\6.BinaryToHexadecimal.pdb
+c:\users\светла\documents\visual studio 2012\Projects\10. Numeral Systems\6.BinaryToHexadecimal\obj\Debug\6.BinaryToHexadecimal.exe
+c:\users\светла\documents\visual studio 2012\Projects\10. Numeral Systems\6.BinaryToHexadecimal\obj\Debug\6.BinaryToHexadecimal.pdb
